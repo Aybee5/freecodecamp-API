@@ -1,2 +1,1 @@
-# freecodecamp-API
-A freecodecamp API and microservices solutions
+# Backend Challenges boilerplate - package.json
