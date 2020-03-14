@@ -2,8 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
   "author": "Ibrahim Abdullahi Aliyu",
   "description": "A freecodecamp API learning",
+  "keywords": ["freecodecamp", "API", "Node/Express"],
+  "license": "MIT",
+  "version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
